@@ -11,8 +11,10 @@
 /[Uu]ser[Ss]ettings/
 
 /Suspicious Company/Library/
+/Suspicious Company/Temp/
 /Suspicious Company/UserSettings/
 /Suspicious Company/Obj/
+/Suspicious Company/Logs/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
